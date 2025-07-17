@@ -6,8 +6,8 @@ import { ThemeProvider } from "next-themes";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Manjunath Bhandari",
-  description: "Portfolio of Manjunath Bhandari",
+  title: "Karthik Majjiga",
+  description: "Portfolio of Karthik Majjiga",
   
 };
 
