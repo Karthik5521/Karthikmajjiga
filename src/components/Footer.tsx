@@ -3,7 +3,6 @@
 import {
   ExternalLink,
   Github,
-  Heart,
   Linkedin,
   Mail,
   MapPin,
